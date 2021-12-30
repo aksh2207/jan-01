@@ -1,4 +1,6 @@
-i am akshay
+i
+
+ am akshay
 learning git
 git is intresting
 understanding git 
