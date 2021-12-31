@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 learning branching in git
 =======
 l
@@ -11,3 +12,8 @@ hbhbdbhshdghhb
 hgh
 earning branching in git
 >>>>>>> 0e891bb... updated d.txt
+=======
+lbhshdghhb
+hgh
+earning branching in git
+>>>>>>> b82d3c7... udated c.txt

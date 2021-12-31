@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 created file c
+=======
+chsbbjbjs
+jbjhadjja
+bjbjbj
+
+dnhdfj
+fhfk
+reated file c
+>>>>>>> b82d3c7... udated c.txt
