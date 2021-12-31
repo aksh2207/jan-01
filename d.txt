@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 learning branching in git
+=======
+l
+
+jxbxhjbajdj
+
+
+dhvhadv
+hbhbdbhshdghhb
+hgh
+earning branching in git
+>>>>>>> 0e891bb... updated d.txt
